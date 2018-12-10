@@ -3,6 +3,8 @@ ASPE's 2-day hands-on Puppet class, taught by an expert from Techtown Labs.
 
 The course as we currently advertise it- http://techtowntraining.com/courses/introduction-to-using-puppet-training
 
+We need at least t2.xlarge instance type as Puppet will not install on anything smaller. - Corey Brune, 12-10-2018
+
 Current version of instructor materials - https://aspetraining.securevdr.com/d-s3e7f007078c4c419
 
 Current version of student materials - https://aspetraining.securevdr.com/d-s835966f83684c3a9
